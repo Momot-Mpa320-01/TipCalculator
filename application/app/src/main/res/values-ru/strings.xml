@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Приложение</string>
+    <string name="enter_amount">Введите сумму</string>
+    <string name="input_text">Ввод</string>
+    <string name="tip">Тип</string>
+    <string name="total">Всего</string>
+</resources>

@@ -13,6 +13,7 @@ public class Calc {
     }
 
     public double getBillAmount() {
+        billAmount = Double.valueOf(String.format("%.2g%n", billAmount));
         return billAmount;
     }
 
@@ -21,6 +22,7 @@ public class Calc {
     }
 
     public double getPercent() {
+        percent=  Double.valueOf(String.format("%.2g%n", percent));
         return percent;
     }
 
